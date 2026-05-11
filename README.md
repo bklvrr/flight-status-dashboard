@@ -56,7 +56,7 @@
 - United Air Lines Inc -- самое большое часло задержанных рейсов;
 - Чаще всего люди летают из города Antlanta.
 
-
+---
 
 Thanks Chris Dutton from Maven Analytics for such great tutorial: https://www.youtube.com/watch?v=aLV4Qe60VK4
 
