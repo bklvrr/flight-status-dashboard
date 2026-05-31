@@ -10,13 +10,9 @@
 
 ## Используемые инструменты и технологии
 
-- Microsoft Excel
-- ИНДЕКС, ПОИСКПОЗ;
-- Сводные таблицы (Pivot tables)
-- Cводные диаграммы (Pivot Charts) 
-- Временная шкала (Timeline)
-- Очистка и подготовка данных
-- Визуализация данных
+- Microsoft Pover BI
+- Power Query (Очистка и подготовка данных)
+- DAX (Меры/Measurments)
 - Dashboard Design
 
 ---
